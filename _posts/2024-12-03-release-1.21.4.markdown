@@ -1,0 +1,55 @@
+---
+layout: post
+title: Minecraft 1.21.4 - The Garden Awakens is here
+---
+
+News of an eerie new biome has been spreading across Minecraft.net for weeks, and now we’re getting reports that this biome – and its mysteries – are playable Minecraft Bedrock and Java Edition today!<br>
+
+The Garden Awakens drop has landed – meaning players the world over will be able to explore this eerie new biome, meet the creaking, uncover the secrets of the creaking heart, build with new blocks, row away in pale oak boats, trim armor with resin, decorate their base with hanging moss, and more.<br>
+
+[Read the full story here!](https://www.minecraft.net/pt-br/article/the-garden-awakens-is-here)
+
+**NEW FEATURES:**<br>
+* Added Pale Garden Biome, Pale Oak tree, Pale Moss block, Pale Moss carpet, Pale Hanging Moss and Pale Oak woodset
+    * Using the seed 3515201313347228787 when creating a new world will spawn the player next to a Pale Garden
+* Added the Creaking mob, Creaking Spawn Egg and Creaking Heart block
+* Added the Resin block family
+* Added Eyeblossoms
+
+**CHANGES:**<br>
+* Swords are no longer considered efficient tools for mining Moss Carpet
+    * Hoes remain the proper tools for mining Moss Carpets
+* Bees are now withered on player interactions with Wither Roses instead of typical breeding/growing behavior
+* Baby Cats and Wolves now get a collar with the color that is a mix between the parents collar color if possible
+* Added language support for Popoloca
+* The durations of the effects of Suspicious Stews have been aligned with those in Bedrock Edition:
+    * Saturation: 0.35 seconds (unchanged)
+    * Night Vision: 5 seconds (unchanged)
+    * Fire Resistance: 3 seconds
+    * Blindness: 11 seconds
+    * Weakness: 7 seconds
+    * Regeneration: 7 seconds
+    * Jump Boost: 5 seconds
+    * Wither: 7 seconds
+    * Poison: 11 seconds
+* The Data Pack version is now 61
+* The Resource Pack version is now 46
+* Removed the `winter_drop` feature flag and built-in data pack
+* Removed Herobrine
+
+**FIXED BUGS IN 1.21.4:**<br>
+* Around 237 bugs were fixed in this release. View the list [on the issue tracker](https://bugs.mojang.com/issues/?filter=28778).
+
+**READ MORE:**<br>
+* [All the additions and changes are in the 1.21.4 article available here!](https://www.minecraft.net/pt-br/article/minecraft-java-edition-1-21-4)
+
+**GET THE RELEASE:**<br>
+
+Cross-platform server jar:<br>
+* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar)
+
+Report bugs here:<br>
+* [Minecraft issue tracker!](https://bugs.mojang.com/projects/MC/summary)
+
+Want to give feedback?<br>
+* For any feedback and suggestions, head over to the [Feedback site](https://feedback.minecraft.net/). If you're feeling chatty, join us over at the [official Minecraft Discord](https://discordapp.com/invite/minecraft).
